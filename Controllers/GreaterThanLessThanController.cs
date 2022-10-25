@@ -2,7 +2,7 @@
 //10-25-2022
 //Greater Than or Less Than - Endpoint
 //Create a Controller with and Endpoint that calls a funcionts that compares two numbers inputed by the user then the fucntion returns weather they are greater than, less than, or equal to each other.
-//Peer Review by; 
+//Peer Review by: Freddy Aguilar - The program converts mini challenge 4 into API format. It takes two numbers from the user and outputs onto Postman whether the first number is greater than, less than or equal to the second number. Everything works as intended.
 using System;
 using System.Collections.Generic;
 using System.Diagnostics;
